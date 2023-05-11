@@ -1,0 +1,10 @@
+.overlay{
+  background-color: rgba(0,0,0,0.3);
+  z-index: 1;
+}
+.unable{
+  z-index: 2;
+}
+.font{
+  font-family: 'Bai Jamjuree', sans-serif;
+}
