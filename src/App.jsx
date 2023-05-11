@@ -7,7 +7,7 @@ function App() {
   const [unable, setunable] = useState(false);
 
   return (
-    <div className="App font flex flex-col items-center h-[100vh] justify-center">
+    <div className="App flex flex-col items-center h-[100vh] justify-center">
       <div className='flex justify-between items-center w-[80vw]'>
         <img src={logo} className="w-[30vw]"/>
         <p className="text-xl font-bold">X</p>
