@@ -35,7 +35,7 @@ function App() {
    <div className='text-center absolute rounded-[10px] unable w-[70vw] bg-[#d4e9ff]'>
 <div className='border-b pb-[1rem] flex flex-col items-center  border-[#282828] '>
 <p className='mt-[1rem] font-bold mb-[0.3rem]'>Unable to Login</p>
-    <p className='mx-[1rem] w-[90%]'>Unfortunaltely, We're not able to log you in right now.</p>
+    <p className='mx-[1rem] w-[90%]'>Unfortunately, We're not able to log you in right now.</p>
 <p>Please contact Support center.</p>
 </div>
 <p className='my-[0.5rem] text-[#396ab9] font-semibold' onClick={() => {setunable(false)}}>OK</p>
