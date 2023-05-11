@@ -12,7 +12,7 @@ function App() {
         <img src={logo} className="w-[30vw]"/>
         <p className="text-xl font-bold">X</p>
       </div>
-      <p className='text-left my-[2rem] w-[80vw] text-3xl font-semibold'>Login To My AMP</p>
+      <p className='text-left my-[2rem] w-[80vw] text-3xl'>Login To My AMP</p>
       <div className='w-[80vw]'>
 <div className='relative'>
 <p className='text-[#adadad] font-semibold'>Username</p>
